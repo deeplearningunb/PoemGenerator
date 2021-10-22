@@ -19,7 +19,7 @@
 
 &emsp;&emsp;Foram utilizadas as seguintes bibliotecas e ferramentas:
 
-- [BeautifulSoup](https://pypi.org/project/beautifulsoup4/), para realizar o Web Scrapping do site [pensador](https://www.pensador.com/poemas/)
+- [BeautifulSoup](https://pypi.org/project/beautifulsoup4/), para realizar o Web Scrapping do site [pensador](https://www.pensador.com/poemas/);
 
 - [Keras](https://www.tensorflow.org/guide/keras?hl=pt) (API de alto nível do [Tensorflow](https://www.tensorflow.org/overview));
 
