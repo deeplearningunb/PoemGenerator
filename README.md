@@ -13,7 +13,7 @@
 
 ## Sobre 
 
-&emsp;&emsp;Esse é um repositório focado no trabalho de Tópicos Especiais de Engenharia de Software - Deep Learning. Desenvolvido pelos integrantes acima, o PoemGenerator utilizará Machine e Deep Learning com o objetivo de gerar poemas. Para isso, serão usados alguns dados públicos armazenados em arquivos contendo poemas e o nome de seus autores. Na 1ª reunião, foram definidas as bibliotecas e a equipe começou a fazer a codificação dando, então, início ao projeto.
+&emsp;&emsp;Esse é um repositório focado no trabalho de Tópicos Especiais de Engenharia de Software - Deep Learning. Desenvolvido pelos integrantes acima, o PoemGenerator utilizará Machine e Deep Learning com o objetivo de gerar poemas. Para isso, serão usados alguns dados públicos armazenados em arquivos contendo poemas e o nome de seus autores. Na 1ª reunião, foram definidas as bibliotecas e a equipe começou a fazer a codificação dando, então, início ao projeto. O grupo retirou e coletou os dados da página [pensador](https://www.pensador.com/poemas/) que possui muitos poemas de diversos autores. Com o objetivo de implementar um método já validado, utilizamos um utilizado pelo engenheiro de inteligência artificial [Laurence Moroney](https://laurencemoroney.com/), tendo como principal base o vídeo: [Training an AI to create poetry (NLP Zero to Hero - Part 6)](https://www.youtube.com/watch?v=ZMudJXhsUpY). 
 
 ## Bibliotecas e ferramentas
 
