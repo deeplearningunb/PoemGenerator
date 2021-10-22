@@ -13,17 +13,18 @@
 
 ## Sobre 
 
-&emsp;&emsp;Esse é um repositório focado no trabalho de Tópicos Especiais de Engenharia de Software - Deep Learning. Desenvolvido pelos integrantes acima, o PoemGenerator utilizará Machine e Deep Learning com o objetivo de gerar poemas.
-&emsp;&emsp;Para isso, serão usados alguns dados públicos armazenados em arquivos contendo poemas e o nome de seus autores. Na 1ª reunião, foram definidas as bibliotecas e a equipe começou a fazer a codificação dando, então, início ao projeto.
+&emsp;&emsp;Esse é um repositório focado no trabalho de Tópicos Especiais de Engenharia de Software - Deep Learning. Desenvolvido pelos integrantes acima, o PoemGenerator utilizará Machine e Deep Learning com o objetivo de gerar poemas. Para isso, serão usados alguns dados públicos armazenados em arquivos contendo poemas e o nome de seus autores. Na 1ª reunião, foram definidas as bibliotecas e a equipe começou a fazer a codificação dando, então, início ao projeto.
 
 ## Bibliotecas e ferramentas
 
 &emsp;&emsp;Foram utilizadas as seguintes bibliotecas e ferramentas:
 
-- (Keras)[https://www.tensorflow.org/guide/keras?hl=pt] (API de alto nível do (Tensorflow)[https://www.tensorflow.org/overview]);
+- [BeautifulSoup](https://pypi.org/project/beautifulsoup4/), para realizar o Web Scrapping do site [pensador](https://www.pensador.com/poemas/)
 
-- Com o objetivo de trabalhar com expressões regulares e fazer uma "limpa" no dataset, utilizamos o (RegEX)[https://docs.python.org/pt-br/3/library/re.html];
+- [Keras](https://www.tensorflow.org/guide/keras?hl=pt) (API de alto nível do [Tensorflow](https://www.tensorflow.org/overview));
 
-- (Numpy)[https://numpy.org/], para trabalharmos com arrays, principalmente;
+- Com o objetivo de trabalhar com expressões regulares e fazer uma "limpa" no dataset, utilizamos o [RegEX](https://docs.python.org/pt-br/3/library/re.html);
 
-- (Pandas)[https://pandas.pydata.org/]. Utilizado para análise de dados, leitura de arquivos, entre outros.
+- [Numpy](https://numpy.org/), para trabalharmos com arrays, principalmente;
+
+- [Pandas](https://pandas.pydata.org/). Utilizado para análise de dados, leitura de arquivos, entre outros.
